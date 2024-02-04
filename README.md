@@ -1,4 +1,4 @@
-# International-Clock
+# UK CLOCK
 uk realtime clock
 
 //lukman ali
